@@ -1,7 +1,7 @@
 import React from 'react';
 import renderer from 'react-test-renderer'
 
-import OverlayContent from '../../../src/CountrySelect/OverlayContent/index.js';
+import OverlayContent from '../../../src/CountrySelect/OverlayContent';
 
 const BS_PREFIX = 'country-select';
 const LIST = [

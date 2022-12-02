@@ -1,7 +1,7 @@
 import React from 'react';
 import renderer from 'react-test-renderer'
 
-import List from '../../../../src/CountrySelect/OverlayContent/List/index.js';
+import List from '../../../../src/CountrySelect/OverlayContent/List';
 
 const CLASS_PREFIX = 'country-select';
 const CONTAINER_EL = undefined;
